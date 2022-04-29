@@ -61,7 +61,7 @@ public class FamilyTree
             	}
             }
             
-            // Not found anywhere.
+            
             return null;
         }
         
